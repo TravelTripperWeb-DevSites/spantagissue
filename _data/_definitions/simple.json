@@ -1,5 +1,9 @@
 {
   "name": {
     "required": true
+  },
+  "desc": {
+    "required": true,
+    "type": "richtext"
   }
 }
