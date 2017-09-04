@@ -1,5 +1,12 @@
 {
   "name": {
     "required": true
+  },
+  "desc": {
+    "required": true,
+    "type": "richtext"
+  },
+  "url_friendly_name":{  
+    "type":"url_slug"
   }
 }
